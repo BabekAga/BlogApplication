@@ -1,0 +1,12 @@
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Core\bin\Debug\net7.0\NLayer.Core.deps.json
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Core\bin\Debug\net7.0\NLayer.Core.dll
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Core\bin\Debug\net7.0\NLayer.Core.pdb
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.dll
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Core\obj\Debug\net7.0\refint\NLayer.Core.dll
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Core\obj\Debug\net7.0\NLayer.Core.pdb
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Core\obj\Debug\net7.0\ref\NLayer.Core.dll
