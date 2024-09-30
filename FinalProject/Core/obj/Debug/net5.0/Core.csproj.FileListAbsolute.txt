@@ -1,0 +1,12 @@
+C:\Users\Agamuradov\source\repos\FinalProject\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\Agamuradov\source\repos\FinalProject\Core\bin\Debug\net5.0\Core.dll
+C:\Users\Agamuradov\source\repos\FinalProject\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\Agamuradov\source\repos\FinalProject\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\FinalProject\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\source\repos\FinalProject\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\source\repos\FinalProject\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\Agamuradov\source\repos\FinalProject\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\FinalProject\Core\obj\Debug\net5.0\Core.dll
+C:\Users\Agamuradov\source\repos\FinalProject\Core\obj\Debug\net5.0\refint\Core.dll
+C:\Users\Agamuradov\source\repos\FinalProject\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\Agamuradov\source\repos\FinalProject\Core\obj\Debug\net5.0\ref\Core.dll

@@ -1,0 +1,17 @@
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\Agamuradov\source\repos\FinalProject\DataAccess\bin\Debug\net5.0\Core.pdb

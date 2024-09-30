@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 
 namespace ConsoleApp1
@@ -7,21 +8,34 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string[] array = { "b", "a", "b", "b", "c", "c" };
-            Dictionary<string, int> dic = new Dictionary<string,int>();
-            for (int i = 0; i < array.Length; i++)
-            {
-                int count = 0;
-                for (int j = 0; j < array.Length; j++)
-                {
-                    if (array[i] == array[j])
-                        count++;
-                }
-                if (!dic.ContainsKey(array[i]))
-                    dic.Add(array[i], count);
-            }
-            foreach (var item in dic)
-                Console.WriteLine($"{item.Key}: {item.Value}");
-        }
+                                                                                                                               
+        }                                   
+
     }
+
+    class Product
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public double Price { get; set; }
+        public int CategoryId { get; set; }
+    }
+    class Category
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public List<Product> Products { get; set; }
+    }
+
+    class TestContext : DbContext
+    {
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer(@"Server=DESKTOP-UL81D9P;Database=TestDb;Trusted_Connection=True;");
+        }
+
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
+    }
+
 }

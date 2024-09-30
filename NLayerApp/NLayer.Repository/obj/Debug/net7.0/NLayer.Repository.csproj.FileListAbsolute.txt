@@ -1,0 +1,17 @@
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.deps.json
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.dll
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.pdb
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Core.dll
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Core.pdb
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.AssemblyInfo.cs
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.CopyComplete
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.dll
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\obj\Debug\net7.0\refint\NLayer.Repository.dll
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.pdb
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\obj\Debug\net7.0\ref\NLayer.Repository.dll
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.runtimeconfig.json
+C:\Users\Agamuradov\source\repos\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.genruntimeconfig.cache
